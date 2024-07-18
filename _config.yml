@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: 于金冬
+subtitle: '123123'
+description: '456'
 keywords:
-author: John Doe
+author: 于金冬
 language: en
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://yujindong.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -65,7 +65,7 @@ index_generator:
   order_by: -date
 
 # Category & Tag
-default_category: uncategorized
+default_category: others # uncategorized
 category_map:
 tag_map:
 
@@ -96,7 +96,10 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+## theme: landscape
+theme: next
+
+
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
